@@ -3,6 +3,8 @@ Protocol Discription of the Drevo Tyrfing V2
 
 Vendor: 0x0416 
 Device: 0xA0F8
+
+This discription is far from complete.
 ## Message
 
 **Color message**
